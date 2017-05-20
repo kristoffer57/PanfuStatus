@@ -1,0 +1,31 @@
+﻿html {
+    background-color: dimgray;
+}
+
+body {
+    text-align: center;
+    margin: 40px 450px;
+    padding-bottom: 40px;
+    background-color: lightgray;
+}
+
+header {
+    padding: 15px;
+    background-color: white;
+}
+
+h1 {
+    color: blue;
+    display: inline;
+    margin: 0px;
+}
+
+ul {
+    display: inline-block;
+    margin: 0px;
+}
+
+li {
+    display: inline;
+    margin-left: 10px;
+}
