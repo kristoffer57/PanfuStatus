@@ -23,3 +23,9 @@ C:\Users\Kristoffer\Source\Repos\PanfuStatus\PanfuStatus.exe.manifest
 C:\Users\Kristoffer\Source\Repos\PanfuStatus\PanfuStatus.application
 C:\Users\Kristoffer\Source\Repos\PanfuStatus\PanfuStatus.exe
 C:\Users\Kristoffer\Source\Repos\PanfuStatus\PanfuStatus.pdb
+C:\Users\Kristoffer\Source\Repos\PanfuStatus\PanfuStatus\obj\Debug\PanfuStatus.csprojResolveAssemblyReference.cache
+C:\Users\Kristoffer\Source\Repos\PanfuStatus\PanfuStatus\obj\Debug\PanfuStatus.Form1.resources
+C:\Users\Kristoffer\Source\Repos\PanfuStatus\PanfuStatus\obj\Debug\PanfuStatus.Properties.Resources.resources
+C:\Users\Kristoffer\Source\Repos\PanfuStatus\PanfuStatus\obj\Debug\PanfuStatus.csproj.GenerateResource.Cache
+C:\Users\Kristoffer\Source\Repos\PanfuStatus\PanfuStatus\obj\Debug\PanfuStatus.exe
+C:\Users\Kristoffer\Source\Repos\PanfuStatus\PanfuStatus\obj\Debug\PanfuStatus.pdb

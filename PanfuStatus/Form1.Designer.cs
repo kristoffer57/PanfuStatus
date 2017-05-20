@@ -194,6 +194,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.ClientSize = new System.Drawing.Size(377, 428);
             this.Controls.Add(this.pictureBox8);
             this.Controls.Add(this.label1);
@@ -210,6 +211,10 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.pictureBox2);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(393, 467);
+            this.MinimizeBox = false;
+            this.MinimumSize = new System.Drawing.Size(393, 467);
             this.Name = "Form1";
             this.Text = "PanfuStatus";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
